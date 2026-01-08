@@ -12,6 +12,7 @@ This is an Arduino project - no npm/make build system. Use Arduino IDE:
 
 1. Install required libraries via `Sketch > Include Library > Manage Libraries`:
    - **DMXUSB** (https://github.com/DaAwesomeP/dmxusb/)
+   - **elapsedMillis** (DMXUSB dependency)
    - **FastLED** (https://github.com/FastLED/FastLED)
 
 2. Open `200516_OPZ_cube.ino` in Arduino IDE
